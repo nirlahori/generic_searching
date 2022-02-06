@@ -1,14 +1,10 @@
 #include<iostream>
 
-
 /*
 	Contains Linear Search and Binary Search Algorithms.
 	I will update them to more improve versions.
 
 */
-
-
-
 
 namespace search{
 
